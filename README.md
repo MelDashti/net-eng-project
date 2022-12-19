@@ -1,12 +1,15 @@
 # Internet Engineering Project 
 
-This is a full-stack project that I developed for my Internet Engineering Course.
+This is a full-stack project that I developed for my Internet Engineering Course. A simple website for a company where employees can subscribe to the weekly newsletter. Employees that Subscribed can also be viewed and searched for customized newsletter.   
 
 # CodeSandBox 
 
-This project was built on the codesandbox platform you can also view the site and source code there
+This project was built and hosted on codesandbox.
 
-link... 
+Backend: https://dxtsmk.sse.codesandbox.io/
+Signup: https://h8uhfv.csb.app/
+Search: https://utozmb.csb.app/
+View Subscribers: https://ehgi3o.csb.app/
 
 # What I learnt
 
@@ -17,5 +20,4 @@ link...
 - SASS for further improving website style.
 - HTML, CSS, and JS for creating a welcome page for the backend. 
 
-
-
+Screenshots: 
