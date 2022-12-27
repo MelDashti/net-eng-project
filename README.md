@@ -2,6 +2,8 @@
 
 This is a full-stack project that I developed for my Internet Engineering Course. A simple website for a company where employees can subscribe to the weekly newsletter. Employees that Subscribed can also be viewed and searched for customized newsletter.   
 
+![coverpic](https://github.com/MelDashti/net-eng-project/blob/master/Screenshots/net.jpg)
+
 # CodeSandBox 
 
 This project was built and hosted on codesandbox.
@@ -21,3 +23,7 @@ View Subscribers: https://ehgi3o.csb.app/
 - HTML, CSS, and JS for creating a welcome page for the backend. 
 
 Screenshots: 
+
+<img src="https://github.com/MelDashti/net-eng-project/blob/master/Screenshots/SearchSubscriber.jpg" alt="drawing" width="600"/> 
+<img src="https://github.com/MelDashti/net-eng-project/blob/master/Screenshots/signup.jpg" alt="drawing" width="600"/>
+
